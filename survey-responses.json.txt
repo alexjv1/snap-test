@@ -1,0 +1,41 @@
+{
+  "surveyId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "startingFrom": "0",
+  "progress": "#ABC123",
+  "upToDate": "true",
+  "responses": [
+    {
+      "status": "complete",
+      "caseId": "resp-001",
+      "variables": [
+        {"id": "V1", "v": "Lorem ipsum dolor sit amet"},
+        {"id": "V2", "v": "Option A"},
+        {"id": "V3", "v": "\"Choice X\",\"Choice Y\""},
+        {"id": "V4", "v": "Yes"},
+        {"id": "V5", "v": "Consectetur adipiscing elit"}
+      ]
+    },
+    {
+      "status": "complete",
+      "caseId": "resp-002",
+      "variables": [
+        {"id": "V1", "v": "Sed do eiusmod tempor"},
+        {"id": "V2", "v": "Option B"},
+        {"id": "V3", "v": "\"Choice Z\""},
+        {"id": "V4", "v": "No"},
+        {"id": "V5", "v": "Incididunt ut labore et dolore"}
+      ]
+    },
+    {
+      "status": "complete",
+      "caseId": "resp-003",
+      "variables": [
+        {"id": "V1", "v": "Magna aliqua ut enim"},
+        {"id": "V2", "v": "Option C"},
+        {"id": "V3", "v": "\"Choice X\",\"Choice Z\""},
+        {"id": "V4", "v": "Yes"},
+        {"id": "V5", "v": "Ad minim veniam quis nostrud"}
+      ]
+    }
+  ]
+}
