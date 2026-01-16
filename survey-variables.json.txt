@@ -1,0 +1,49 @@
+{
+  "surveyId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "variables": [
+    {
+      "order": 1,
+      "variableId": "V1",
+      "label": "Question 1",
+      "type": "text"
+    },
+    {
+      "order": 2,
+      "variableId": "V2",
+      "label": "Question 2",
+      "type": "single",
+      "codes": [
+        {"codeIndex": 1, "codeValue": "1", "codeLabel": "Option A"},
+        {"codeIndex": 2, "codeValue": "2", "codeLabel": "Option B"},
+        {"codeIndex": 3, "codeValue": "3", "codeLabel": "Option C"}
+      ]
+    },
+    {
+      "order": 3,
+      "variableId": "V3",
+      "label": "Question 3",
+      "type": "multiple",
+      "codes": [
+        {"codeIndex": 1, "codeValue": "1", "codeLabel": "Choice X"},
+        {"codeIndex": 2, "codeValue": "2", "codeLabel": "Choice Y"},
+        {"codeIndex": 3, "codeValue": "3", "codeLabel": "Choice Z"}
+      ]
+    },
+    {
+      "order": 4,
+      "variableId": "V4",
+      "label": "Question 4",
+      "type": "single",
+      "codes": [
+        {"codeIndex": 1, "codeValue": "1", "codeLabel": "Yes"},
+        {"codeIndex": 2, "codeValue": "2", "codeLabel": "No"}
+      ]
+    },
+    {
+      "order": 5,
+      "variableId": "V5",
+      "label": "Question 5",
+      "type": "text"
+    }
+  ]
+}
