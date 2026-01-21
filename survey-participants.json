@@ -1,0 +1,53 @@
+{
+  "surveyId": "637834-848364-238496",
+  "startingFrom": "0",
+  "progress": "#fff",
+  "upToDate": true,
+  "participants": [
+    {
+      "id": "p001-1111-2222-3333-4444",
+      "enabled": true,
+      "invitationSection": {
+        "optedOut": false,
+        "sendInvitations": true,
+        "emailAddress": "alex@example.com"
+      },
+      "loginSection": {
+        "login": "alex1",
+        "password": null,
+        "interviewer": null,
+        "status": "Completed"
+      }
+    },
+    {
+      "id": "p002-1111-2222-3333-4444",
+      "enabled": true,
+      "invitationSection": {
+        "optedOut": false,
+        "sendInvitations": true,
+        "emailAddress": "bob@example.com"
+      },
+      "loginSection": {
+        "login": "bob2",
+        "password": null,
+        "interviewer": null,
+        "status": "Completed"
+      }
+    },
+    {
+      "id": "p003-1111-2222-3333-4444",
+      "enabled": true,
+      "invitationSection": {
+        "optedOut": false,
+        "sendInvitations": true,
+        "emailAddress": "charlie@example.com"
+      },
+      "loginSection": {
+        "login": "charlie3",
+        "password": null,
+        "interviewer": null,
+        "status": "Completed"
+      }
+    }
+  ]
+}
